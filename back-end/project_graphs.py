@@ -12,11 +12,6 @@ attributes to prepare the car data for graph analysis.
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for the personal and private use of students
-taking CSC111 at the University of Toronto St. George campus. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited.
-
 This file is Copyright (c) 2024 CSC111 Students Winter (Yaseen Sadat, Muhammad Aneeq, Umer Farooqui, Zarif Ali)
 """
 from __future__ import annotations
